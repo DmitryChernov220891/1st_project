@@ -1,3 +1,3 @@
 # 1st_project
 My first projec: html, css, js
-Hi! My name is Dmotry! I want to learn the frontend.
+Hi! My name is Dmitry! I want to learn the frontend.
