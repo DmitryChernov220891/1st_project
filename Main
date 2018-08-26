@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+  		<meta charset="utf-8">
+  		<title>Device</title>
+  </head>
+
+  <body>
+  	<header class="main-header">
+  		<nav class="navigation">
+	  		<h1>DEVICE</h1>
+	  		<ul class="site-search">
+	  			<li class="site-search">Поиск по сайту</li>
+	  		</ul>
+	  		<ul class="user-navigation">
+	  			<li class="user-link">Петр Петров</li>
+	  			<li class="login-link">Вход</li>
+	  		</ul>
+	  		<ul class="bought-lsit">
+	  			<li class="bought-goods">Сравнить</li>
+	  			<li class="bought-goods">Корзина</li>
+			</ul>
+			<ul class="site-navigation">
+				<li><a href="catalog.html">Каталог товаров</a></li>
+				<li><a href="delivery.html">Доставка</a></li>
+				<li><a href="guarantee.html">Гарантия</a></li>
+				<li><a href="contacts.html">Контакты</a></li>
+			</ul>
+		</nav>
+	</header>
+
+		<article class="big-selfy-stick">
+			<img src="big-selfy-stick.jpg" width="250" height="250" alt="big-selfy-stick-goods">
+			<h2> Делай селфи, как Бен Стиллер!</h2>
+				<p>Самая длинная палка для селфи доступна в нашем магазине.</p>
+				<br>
+				<p>Восемь (Восемь, Карл) метров длиной и весом 5 килограммов.</p>
+					<a href="big-selfy-stick.html" class="detail-btn">Подробнее</a>
+						<button class="carousel"></button>
+						<button class="carousel"></button>
+						<button class="carousel"></button>
+							<div>
+								<h3 class="visually-hidden">Таблица характеристики селфи-палки</h3>
+								<table class="">
+									<tbody class="">
+										<tr class="">
+											<td class="">8,5м</td>
+											<td class="">5кг</td>
+											<td class="">Карбон</td>
+										</tr>
+									</tbody>
+									<thead>
+										<tr class="">
+											<td class="">Длина палки</td>
+											<td class="">Вес палки</td>
+											<td class="">Материал</td>
+										</tr>
+									</thead>
+								</table>
+							</div>
+		</article>
+
+		<section class="type-o-goods">
+			<h2 class="visually-hidden">Типы товаров</h2>
+			<ul class="type-o-goods-list">
+				<li class="type-o-goods-item">
+					<h3><a href=virtual-reality.html>Виртуальная реальность</a></h3>
+				</li>
+				<li class="type-o-goods-item">
+					<h3><a href=selfy-monopodes.html>Моноподы для селфи</a></h3>
+				</li>
+				<li class="type-o-goods-item">
+					<h3><a href=action-cameras.html>Экшн-камеры</a></h3>
+				</li>
+				<li class="type-o-goods-item">
+					<h3><a href=fitness-bracelets.html>Фитнес-браслеты</a></h3>
+				</li>
+				<li class="type-o-goods-item">
+					<h3><a href=smart-clocks.html>Умные часы</a></h3>
+				</li>
+				<li class="type-o-goods-item">
+					<h3><a href=quadrocopters.html>Квадрокоптеры</a></h3>
+				</li>
+			</ul>
+		</section>
+
+		<section class="type-o-services">
+			<h2 class="visually-hidden">Список услуг</h2>
+			<ul class="type-o-services-list">
+				<li class="type-o-services-item">
+					<h2>Доставка</h2>
+					<p>Мы с удовольствием доставим Ваш товар прямо к Вашему подъезду совершенно бесплатно! Ведь мы неплохо заработаем поднимая его на Ваш этаж.</p>
+					<button class="detail">Доставка</button>
+				</li>
+				<li class="type-o-services-item">
+					<h2>Гарантия</h2>
+					<p>Здесь будет какой-то текст.</p>
+					<button class="detail">Гарантия</button>
+				</li>
+				<li class="type-o-services-item">
+					<h2>Кредит</h2>
+					<p>Здесь будет какой-то текст</p>
+					<button class="detail">Кредит</button>
+				</li>
+			</ul>
+		</section>
+
+		<section class="partners">
+			<h2 class="visually-hidden">Партнеры</h2>
+			<ul class="partners-list">
+				<li class="partners-item">
+					<h3 class="visually-hidden">dji</h3>
+					<a href="dji.html" src="dji.jpg" alt="dji-logo" ></a>
+				</li>
+				<li class="partners-item">
+					<h3 class="visually-hidden">SPGadgets</h3>
+					<a href="SPGadgets.html" src="SPGadgets.jpg" alt="SPGadgets-logo" ></a>
+				</li>
+				<li class="partners-item">
+					<h3 class="visually-hidden">GoPro</h3>
+					<a href="GoPro.html" src="GoPro.jpg" alt="GoPro-logo" ></a>
+				</li>
+				<li class="partners-item">
+					<h3 class="visually-hidden">vive</h3>
+					<a href="vive.html" src="vive.jpg" alt="vive-logo"></a>
+				</li>
+			</ul>
+		</section>
+
+		<section class="">
+			<h2>О нас</h2>
+				<p>Огромный выбор гаджетов не оставит равнодушным гика,<br>который есть в каждом из нас</p>
+				<br>
+				<p>Мы можем доставить Ваш товар в самые отдаленные точки<br>России! DEVICE работает со многими транспортными компаниями</p>
+					<h3 class="visually-hidden">список транспортных компаний</h3>
+					<ul class="transfer-company-list">
+						<li class="transfer-company-item">
+							<h4><a href="www.dellin.ru">Деловые линии</a></h4>
+						</li>
+						<li class="transfer-company-item">
+							<h4><a href="www.autotrading.ru">Автотрейдинг</a></h4>
+						</li>
+						<li class="transfer-company-item">
+							<h4><a href="www.jde.ru">ЖелДорЭкспедиция</a></h4>
+						</li>
+					</ul>
+					<a href="about-us.html" class="detail-btn">Подробнее о нас</a>
+		</section>
+
+		<section class="">
+			<h2>Контакты</h2>
+				<p>Вы можете забрать товар сами, заехав к нам в офис. Заодно, Вы сможете<br>проверить работоспособность покупки. Всякое бывает.</p>
+				<map class="" widht="250" hieght="250" name="map"></map>
+				<button class="detail">Напишите нам</button>
+		</section>
+	</body>
+
+	<footer>		
+		<div>
+			<h1>DEVICE</h1>
+			<p>г. Москва, ул. Строителей, 15</p>
+		</div>
+		
+		<div>
+	  		<ul class="user-navigation">
+	  			<li class="user-link">Петр Петров</li>
+	  			<li class="login-link">Вход</li>
+	  		</ul>
+	  		<ul class="bought-lsit">
+	  			<li class="bought-goods">Сравнить</li>
+	  			<li class="bought-goods">Корзина</li>
+			</ul>
+		</div>
+
+		<section>
+			<ul class="site-navigation">
+				<li><a href="delivery.html">Доставка</a></li>
+				<li><a href="guarantee.html">Гарантия</a></li>
+				<li><a href="contacts.html">Контакты</a></li>
+			</ul>
+		</section>
+
+		<div>
+			<p>Тел.:+7(495)495-95-95</p>
+		</div>
+
+		<article>
+			<a class="social-btn social-btn-fb" href=facebook.com>Мы в Facebook!</a>
+			<a class="social-btn social-btn-inst" href=instagram.com>Мы в Instagram!</a>
+			<a class="social-btn social-btn-vk" href=vk.com>Мы в Вконтакте!</a>
+		</article>
+	</footer>
+</html>
